@@ -12,7 +12,7 @@ variable "coid" {
 
 variable "azs" {
 	type = list
-	default = ["us-west-1b"]
+	default = ["us-west-2a"]
 }
 
 
